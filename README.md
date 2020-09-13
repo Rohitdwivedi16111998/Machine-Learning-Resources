@@ -34,7 +34,7 @@ Do keep this thing in mind- "Garbage In Garbage Out". The below articles will he
 
 [3) Outlier Detection Using z-Score – A Complete Guide With Python Codes](https://analyticsindiamag.com/outlier-detection-using-z-score-a-complete-guide-with-python-codes/)
 
-### Algorithms 
+### Machine Learning Algorithms 
 
 Now when we are done with our data preprocessing now its time to build the predictive model. 
 In machine learning we have several different algorithm to build classification as well as regression models. We need to pick that algorithm that works well for our data.
