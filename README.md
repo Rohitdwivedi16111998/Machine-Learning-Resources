@@ -116,4 +116,7 @@ Once we are done with building models, evaluating the performance and all set to
 4) Analyzed cars dataset and performed exploratory data analysis and then categorized them using K means clustering. Used linear regression on the different clusters and estimated coefficients.
 
       [Clustering cars based on attributes](https://github.com/Rohitdwivedi16111998/rohitdwivedi/blob/master/Classifying%20Silhouttes%20of%20vehicle.ipynb)
+     
+     
+## Kindly ⭐ the repo, if you found it useful.
 
