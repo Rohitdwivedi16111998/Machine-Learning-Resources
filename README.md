@@ -22,7 +22,7 @@ Connect with me on Linkedin - https://www.linkedin.com/in/rohit-dwivedi-b5141b14
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png )
 
-### (I) Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 In the journey of Data science, I feel its the transformation of Data that can help you to attain good results. The data cannot be directly fed to a predictive model and it's very important to pre-process it. Real experience in analytics can come by understanding your data well and the problem that is to be solved.
 
 Do keep this thing in mind- "Garbage In Garbage Out". The below articles will help you to understand more about your data and how to preprocess it in an good manner. The article will help you undetstand more about data anlysis.
