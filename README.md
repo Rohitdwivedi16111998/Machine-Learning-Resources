@@ -41,7 +41,7 @@ In machine learning we have several different algorithm to build classification 
 Refer to the below articles that will take you to every other machine learning algorithm. 
 
 
-[1) How Does K-nearest Neighbor Works In Machine Learning Classification Problem?](https://www.analyticssteps.com/blogs/how-does-k-nearest-neighbor-works-machine-learningassification-problem)
+[1) How Does K-nearest Neighbor Works In Machine Learning Classification Problem?](https://www.analyticssteps.com/blogs/how-does-k-nearest-neighbor-works-machine-learning-classification-problem)
 
 [2) How Does Linear And Logistic Regression Work In Machine Learning?](https://www.analyticssteps.com/blogs/how-does-linear-and-logistic-regression-work-machine-learning)
 
@@ -67,7 +67,7 @@ After we are done building the model we now need to tune the hyperparameter to a
 The below article will cover more about model parameters, hyperparameter tuning methods and also how to check the model performance using different error metrics. 
 
 
-[1) What are Model Parameters and Evaluation Metrics used in Machine Learning?](https://www.analyticssteps.com/blogs/what-are-model-parameters-and-evaluation-metricsused-machine-learning)
+[1) What are Model Parameters and Evaluation Metrics used in Machine Learning?](https://www.analyticssteps.com/blogs/what-are-model-parameters-and-evaluation-metrics-used-machine-learning)
 
 [2) Introduction to Model Hyperparameter and Tuning in Machine Learning](https://www.analyticssteps.com/blogs/introduction-model-hyperparameter-and-tuning-machine-learning)
 
