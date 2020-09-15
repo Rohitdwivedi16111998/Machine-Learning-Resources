@@ -89,6 +89,8 @@ Once we are done with building models, evaluating the performance and all set to
 
 [1) Hands-On-Guide To Machine Learning Model Deployment Using Flask](https://analyticsindiamag.com/hands-on-guide-to-machine-learning-model-deployment-using-flask/)
 
+[2) Complete Tutorial on Tkinter To Deploy Machine Learning Model](https://analyticsindiamag.com/complete-tutorial-on-tkinter-to-deploy-machine-learning-model/)
+
 ### Miscellaneous
 
 [1) Step-by-Step Building Block For Machine Learning Models](https://analyticsindiamag.com/step-by-step-building-block-for-machine-learning-models)
