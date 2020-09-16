@@ -13,7 +13,7 @@ Connect with me on Linkedin - https://www.linkedin.com/in/rohit-dwivedi-b5141b14
 
 • Exploratory Data Analysis\
 • Machine Learning Algorithms\
-• Model Parameter and Hyperparameter Tuning\
+• Model Performance and Hyperparameter Tuning\
 • Model Evaluation and Error Metrics\
 • Regularization\
 • Machine Learning Model Deployment\
@@ -61,7 +61,7 @@ Refer to the below articles that will take you to every other machine learning a
 
 
 
-### Model Parameter - Hyperparameter Tuning and Model Evaluation Metrics in Machine Learning
+### Model Performance - Hyperparameter Tuning and Error Metrics in Machine Learning
 
 After we are done building the model we now need to tune the hyperparameter to attain more good results. These hyperparameter are responsible for controlling the power of a machine learning algorithm.
 The below article will cover more about model parameters, hyperparameter tuning methods and also how to check the model performance using different error metrics. 
@@ -74,6 +74,9 @@ The below article will cover more about model parameters, hyperparameter tuning 
 [3) Guide To Hyperparameters Tuning Using GridSearchCV And RandomizedSearchCV](https://analyticsindiamag.com/guide-to-hyperparameters-tuning-using-gridsearchcv-and-randomizedsearchcv/)
 
 [4) Practical Guide to Machine Learning Model Evaluation and Error Metrics](https://analyticsindiamag.com/practical-guide-to-machine-learning-model-evaluation-and-error-metrics)
+
+
+[5) Hands-On Guide To BootStrap Sampling For ML Performance Evaluation](https://analyticsindiamag.com/hands-on-guide-to-bootstrap-sampling-for-ml-performance-evaluation)
 
 ### Regularization In Machine Learning 
 
