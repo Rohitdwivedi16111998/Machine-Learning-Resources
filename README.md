@@ -25,7 +25,7 @@ Connect with me on Linkedin - https://www.linkedin.com/in/rohit-dwivedi-b5141b14
 ### Exploratory Data Analysis (EDA)
 In the journey of Data science, I feel its the transformation of Data that can help you to attain good results. The data cannot be directly fed to a predictive model and it's very important to pre-process it. Real experience in analytics can come by understanding your data well and the problem that is to be solved.
 
-Do keep this thing in mind- "Garbage In Garbage Out". The below articles will help you to understand more about your data and how to preprocess it in an good manner. The article will help you undetstand more about data anlysis.
+Do keep this thing in mind- "Garbage In Garbage Out". The below articles will help you to understand more about your data and how to preprocess it in an good manner. The article will help you undetstand more about data analysis.
 
 
 [1) How to do Exploratory Data Analysis before building Machine Learning models?](https://www.analyticssteps.com/blogs/how-do-exploratory-data-analysis-building-machine-learning-models)
@@ -36,9 +36,9 @@ Do keep this thing in mind- "Garbage In Garbage Out". The below articles will he
 
 ### Machine Learning Algorithms 
 
-Now when we are done with our data preprocessing now its time to build the predictive model. 
+Now once we are done with preparing our data now its time to build the predictive model. 
 In machine learning we have several different algorithm to build classification as well as regression models. We need to pick that algorithm that works well for our data.
-Refer to the below articles that will take you to every other machine learning algorithm. 
+Refer to the below articles that will help you to understand different machine learning algorithms that can be used to build models.  
 
 
 [1) How Does K-nearest Neighbor Works In Machine Learning Classification Problem?](https://www.analyticssteps.com/blogs/how-does-k-nearest-neighbor-works-machine-learning-classification-problem)
@@ -59,24 +59,30 @@ Refer to the below articles that will take you to every other machine learning a
 
 [9) Introduction to XGBoost Algorithm for Classification and Regression](https://www.analyticssteps.com/blogs/introduction-xgboost-algorithm-classification-and-regression)
 
+[Random Forest Vs XGBoost – Comparing Tree-Based Algorithms (With Codes)](https://analyticsindiamag.com/random-forest-vs-xgboost-comparing-tree-based-algorithms-with-codes/)
 
 
-### Model Performance - Hyperparameter Tuning and Error Metrics in Machine Learning
+### Model Performance and Evaluation Metrics
 
-After we are done building the model we now need to tune the hyperparameter to attain more good results. These hyperparameter are responsible for controlling the power of a machine learning algorithm.
-The below article will cover more about model parameters, hyperparameter tuning methods and also how to check the model performance using different error metrics. 
-
+After we build our model now its time to check the actual power of the model. We can check this using different evulation metrics like accuracy score, confusion matrix, etc. Also, if we want to test how will the model perform on unseen data we make use of techniques like Cross Validation and Boot Strap Sampling. This gives us an idea how will the model perform on production data. 
 
 [1) What are Model Parameters and Evaluation Metrics used in Machine Learning?](https://www.analyticssteps.com/blogs/what-are-model-parameters-and-evaluation-metrics-used-machine-learning)
 
-[2) Introduction to Model Hyperparameter and Tuning in Machine Learning](https://www.analyticssteps.com/blogs/introduction-model-hyperparameter-and-tuning-machine-learning)
+[2) Practical Guide to Machine Learning Model Evaluation and Error Metrics](https://analyticsindiamag.com/practical-guide-to-machine-learning-model-evaluation-and-error-metrics)
 
-[3) Guide To Hyperparameters Tuning Using GridSearchCV And RandomizedSearchCV](https://analyticsindiamag.com/guide-to-hyperparameters-tuning-using-gridsearchcv-and-randomizedsearchcv/)
-
-[4) Practical Guide to Machine Learning Model Evaluation and Error Metrics](https://analyticsindiamag.com/practical-guide-to-machine-learning-model-evaluation-and-error-metrics)
+[3) Hands-On Guide To BootStrap Sampling For ML Performance Evaluation](https://analyticsindiamag.com/hands-on-guide-to-bootstrap-sampling-for-ml-performance-evaluation)
 
 
-[5) Hands-On Guide To BootStrap Sampling For ML Performance Evaluation](https://analyticsindiamag.com/hands-on-guide-to-bootstrap-sampling-for-ml-performance-evaluation)
+
+## Hyperparameter Tuning 
+
+In machine learning we always define two things one is parameter and other is hyperparamter. The paramter is internal to the model like coefficients in Logistic Regression whereas Hyperparameter are the ones that control the power of an algorithm or an model for example defining k in KNN algorithm is an example of hyperparamter. 
+Check the below articles where you can learn how to tune the model hyperparameter and get the best performance of the machine learning model. 
+
+[1) Introduction to Model Hyperparameter and Tuning in Machine Learning](https://www.analyticssteps.com/blogs/introduction-model-hyperparameter-and-tuning-machine-learning)
+
+[2) Guide To Hyperparameters Tuning Using GridSearchCV And RandomizedSearchCV](https://analyticsindiamag.com/guide-to-hyperparameters-tuning-using-gridsearchcv-and-randomizedsearchcv/)
+
 
 ### Regularization In Machine Learning 
 
