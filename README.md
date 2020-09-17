@@ -74,7 +74,7 @@ After we build our model now its time to check the actual power of the model. We
 
 
 
-## Hyperparameter Tuning 
+### Hyperparameter Tuning 
 
 In machine learning we always define two things one is parameter and other is hyperparamter. The paramter is internal to the model like coefficients in Logistic Regression whereas Hyperparameter are the ones that control the power of an algorithm or an model for example defining k in KNN algorithm is an example of hyperparamter. 
 Check the below articles where you can learn how to tune the model hyperparameter and get the best performance of the machine learning model. 
