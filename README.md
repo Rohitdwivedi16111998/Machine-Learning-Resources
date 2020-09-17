@@ -59,7 +59,7 @@ Refer to the below articles that will help you to understand different machine l
 
 [9) Introduction to XGBoost Algorithm for Classification and Regression](https://www.analyticssteps.com/blogs/introduction-xgboost-algorithm-classification-and-regression)
 
-[Random Forest Vs XGBoost – Comparing Tree-Based Algorithms (With Codes)](https://analyticsindiamag.com/random-forest-vs-xgboost-comparing-tree-based-algorithms-with-codes/)
+[10) Random Forest Vs XGBoost – Comparing Tree-Based Algorithms (With Codes)](https://analyticsindiamag.com/random-forest-vs-xgboost-comparing-tree-based-algorithms-with-codes/)
 
 
 ### Model Performance and Evaluation Metrics
