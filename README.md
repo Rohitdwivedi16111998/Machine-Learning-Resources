@@ -136,5 +136,5 @@ Once we are done with building models, evaluating the performance and all set to
      
      
 ## Kindly ⭐ the repo, if you found it useful.
-## Happy to answer any dounts and questions ping me on linkedin. 
+## Happy to answer if there are any doubts and questions just ping me on linkedin. 
 
