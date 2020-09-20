@@ -112,6 +112,8 @@ Once we are done with building models, evaluating the performance and all set to
 
 [3) How Does The Data Size Impact Model Accuracy?](https://analyticsindiamag.com/how-does-the-data-size-impact-model-accuracy/)
 
+[4) Pycharm IDE For Dummies- Beginners Guide](https://analyticsindiamag.com/pycharm-ide-for-dummies-beginners-guide/)
+
 
 
 ### Projects 
@@ -134,4 +136,5 @@ Once we are done with building models, evaluating the performance and all set to
      
      
 ## Kindly ⭐ the repo, if you found it useful.
+## Happy to answer any dounts and questions ping me on linkedin. 
 
