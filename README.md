@@ -70,12 +70,13 @@ After we build our model now its time to check the actual power of the model. We
 
 [2) Practical Guide to Machine Learning Model Evaluation and Error Metrics](https://analyticsindiamag.com/practical-guide-to-machine-learning-model-evaluation-and-error-metrics)
 
-[3) Hands-On Guide To BootStrap Sampling For ML Performance Evaluation](https://analyticsindiamag.com/hands-on-guide-to-bootstrap-sampling-for-ml-performance-evaluation)
+[3) Hands-On Implementation of K-Fold Cross-Validation and LOOCV in Machine Learning](https://analyticsindiamag.com/k-fold-cross-validation-and-loocv/)
 
-[4) ROC-AUC Curve For Comprehensive Analysis Of Machine Learning Models](https://analyticsindiamag.com/roc-auc-curve-for-comprehensive-analysis-of-machine-learning-models/)
+[4) Hands-On Guide To BootStrap Sampling For ML Performance Evaluation](https://analyticsindiamag.com/hands-on-guide-to-bootstrap-sampling-for-ml-performance-evaluation)
 
+[5) ROC-AUC Curve For Comprehensive Analysis Of Machine Learning Models](https://analyticsindiamag.com/roc-auc-curve-for-comprehensive-analysis-of-machine-learning-models/)
 
-[5) What is Imblearn Technique – Everything To Know For Class Imbalance Issues In Machine Learning](https://analyticsindiamag.com/what-is-imblearn-technique-everything-to-know-for-class-imbalance-issues-in-machine-learning/)
+[6) What is Imblearn Technique – Everything To Know For Class Imbalance Issues In Machine Learning](https://analyticsindiamag.com/what-is-imblearn-technique-everything-to-know-for-class-imbalance-issues-in-machine-learning/)
 
 
 ### Hyperparameter Tuning 
